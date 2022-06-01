@@ -1,1 +1,1 @@
-web: python speech2text.py
+web: python3 speech2text.py
