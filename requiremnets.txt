@@ -1,0 +1,4 @@
+SpeechRecognition
+telebot
+pyTelegramBotApi
+pydub
