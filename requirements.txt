@@ -2,4 +2,3 @@ SpeechRecognition
 telebot
 pyTelegramBotApi
 pydub
-pydub-stubs
