@@ -8,7 +8,7 @@ import speech_recognition as sr
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
 
-TOKEN = bot = telebot.TeleBot(os.environ.get("TOKEN", ""))
+TOKEN = os.environ.get("TOKEN", "")
 bot = telebot.TeleBot(TOKEN)
 r = sr.Recognizer()
 global emode
