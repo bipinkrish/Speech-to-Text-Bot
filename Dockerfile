@@ -8,4 +8,4 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-RUN python3 update.py && python3 -m bot
+CMD python3 update.py && python3 -m bot
