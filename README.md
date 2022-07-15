@@ -1,4 +1,11 @@
-# Speech-to-text-telegram-bot
+# Speech-to-Text-Bot
 
-Env variable - TOKEN ->> Bot API Token
+A Telegram Bot that can Generate text from a Speech
 
+---
+
+## Variables
+
+- `BOT_TOKEN` Your bot token from @BotFather
+
+---
