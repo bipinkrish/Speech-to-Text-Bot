@@ -1,6 +1,6 @@
 # Speech-to-Text-Bot
 
-A Telegram Bot that can Generate text from a Speech
+A Telegram Bot that can Generate Text from a Speech
 
 ---
 
